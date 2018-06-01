@@ -1,0 +1,13 @@
+# npm packages
+node_modules/
+
+# logs
+*.log
+logs/
+
+# MacOS file
+.DS_Store
+
+# env config
+config/env.js
+config/mq.js
